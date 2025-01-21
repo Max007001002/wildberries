@@ -21,7 +21,7 @@
 1. **Клонируйте репозиторий**
 
    ```bash
-   git clone https://github.com/yourusername/wildberries_service.git
+   git clone https://github.com/Max007001002/wildberries.git
    cd wildberries_service
 
 2. **Создайте и активируйте виртуальное окружение**
