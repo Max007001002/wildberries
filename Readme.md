@@ -34,7 +34,7 @@
 
     ```pip install -r requirements.txt```
 
-4. **Настройте переменные окружения**
+4. **Настройте переменные окружения (.env)**
 
     ```
     BOT_TOKEN=your_bot_token
